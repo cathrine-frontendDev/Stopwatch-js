@@ -27,3 +27,15 @@ body {
     text-shadow: 2px 2px 2px;
     margin-bottom: 25px;
 }
+
+#controls button{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 5px;
+    min-width: 125px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
