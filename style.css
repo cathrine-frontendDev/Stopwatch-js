@@ -37,5 +37,28 @@ body {
     border: none;
     border-radius: 10px;
     cursor: pointer;
+}
 
+ #startbtn {
+    background-color: white;
+ }
+
+#startbtn:hover {
+    background-color:green ;
+}
+
+#resetbtn {
+    background-color: white;
+}
+
+#resetbtn:hover {
+    background-color: rgb(234, 234, 3);
+}
+
+#stopbtn {
+    background-color: white;
+}
+
+#stopbtn:hover {
+    background-color: red;
 }
