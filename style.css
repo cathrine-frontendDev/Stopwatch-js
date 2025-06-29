@@ -40,7 +40,7 @@ body {
 }
 
  #startbtn {
-    background-color: white;
+    background-color:green;
  }
 
 #startbtn:hover {
@@ -48,7 +48,7 @@ body {
 }
 
 #resetbtn {
-    background-color: white;
+    background-color: rgb(234, 234, 3);
 }
 
 #resetbtn:hover {
@@ -56,7 +56,7 @@ body {
 }
 
 #stopbtn {
-    background-color: white;
+    background-color:red;
 }
 
 #stopbtn:hover {
